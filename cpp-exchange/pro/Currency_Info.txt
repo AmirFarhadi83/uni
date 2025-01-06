@@ -1,0 +1,4 @@
+Name: ali ID: 1 Price: 3000 Inventory: 10
+Name: reza ID: 2 Price: 4000 Inventory: 20
+Name: taghi ID: 3 Price: 5000 Inventory: 30
+Name: amir ID: 4 Price: 6000 Inventory: 40
